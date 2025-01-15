@@ -1,4 +1,5 @@
 package kr.board.entity;
+
 import lombok.Data;
 
 @Data
